@@ -1,0 +1,33 @@
+total 120
+drwxr-xr-x 2 root root 4096 Sep 23 15:26 .
+drwxr-xr-x 7 root root  160 Sep  6 03:59 ..
+-rwxr--r-- 1 root root   30 Sep 23 06:47 0-hello_world
+-rw-r--r-- 1 root root   52 Sep  5 10:19 100-empty_casks
+-rw-r--r-- 1 root root  103 Sep  5 10:20 101-gifs
+-rw-r--r-- 1 root root   51 Sep  5 10:20 102-acrostic
+-rw-r--r-- 1 root root  100 Sep  5 10:21 103-the_biggest_fan
+-rw-r--r-- 1 root root   46 Sep  5 10:05 10-no_more_js
+-rw-r--r-- 1 root root   52 Sep  5 10:06 11-directories
+-rw-r--r-- 1 root root   30 Sep  5 10:07 12-newest_files
+-rw-r--r-- 1 root root   27 Sep  5 10:08 13-unique
+-rw-r--r-- 1 root root   36 Sep  5 10:08 14-findthatword
+-rw-r--r-- 1 root root   38 Sep  5 10:09 15-countthatword
+-rw-r--r-- 1 root root   41 Sep  5 10:10 16-whatsnext
+-rw-r--r-- 1 root root   38 Sep  5 10:11 17-hidethisword
+-rw-r--r-- 1 root root   51 Sep  5 10:11 18-letteronly
+-rw-r--r-- 1 root root   36 Sep  5 10:12 19-AZ
+-rwxr--r-- 1 root root   28 Sep 23 06:27 1-confused_smiley
+-rw-r--r-- 1 root root   34 Sep  5 10:14 20-hiago
+-rw-r--r-- 1 root root   16 Sep  5 10:14 21-reverse
+-rw-r--r-- 1 root root   48 Sep  5 10:15 22-users_and_homes
+-rwxr--r-- 1 root root   28 Sep  5 09:57 2-hellofile
+-rwxr--r-- 1 root root   39 Sep  5 09:58 3-twofiles
+-rwxr--r-- 1 root root   29 Sep  5 09:59 4-lastlines
+-rwxr--r-- 1 root root   29 Sep  5 09:59 5-firstlines
+-rwxr--r-- 1 root root   36 Sep  5 10:00 6-third_line
+-rwxr--r-- 1 root root   78 Sep  5 10:02 7-file
+-rwxr--r-- 1 root root   36 Sep  5 10:03 8-cwd_state
+-rw-r--r-- 1 root root   37 Sep  5 10:03 9-duplicate_last_line
+-rw-r--r-- 1 root root   12 Sep 23 15:26 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root    0 Sep 23 15:26 ls_cwd_content
+-rw-r--r-- 1 root root 2776 Sep  6 03:32 README.md
